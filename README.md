@@ -8,8 +8,9 @@
   
   <hr>
   - Estudando:
+  
   - 💻 JavaScript, PHP;
-  - ⚙️ HTML, MySQL, 
-  - 🖌️ CSS, Bootstap
+  
+  - ⚙️ HTML, MySQL;
    
-  <hr>
+  - 🖌️ CSS, Bootstap;
