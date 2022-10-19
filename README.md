@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**JeanMatosdaSilva/JeanMatosdaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ola, Sou o Jean <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+    
+- 🔨 Atualmente estou estudando para ser um desenvolvedor Web
+    
+ - 🌱 Sempre procurando melhorar
+ 
+ - 🎯 Focando em JavaScript
+  
+  <hr>
+  - Estudando:
+  - 💻 JavaScript, PHP;
+  - ⚙️ HTML, MySQL, 
+  - 🖌️ CSS, Bootstap
+   
+  <hr>
